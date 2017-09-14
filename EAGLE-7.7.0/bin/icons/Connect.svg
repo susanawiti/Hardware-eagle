@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="40"
+   height="40"
+   id="svg2"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="M 0,32 32,32 32,0 0,0 0,32 z"
+         inkscape:connector-curvature="0"
+         id="path18" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,40)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath16)"
+         id="g14"><g
+           transform="translate(23.1025,20.4229)"
+           id="g20"><path
+             d="m 0,0 c -2.391,0 -4.288,-1.919 -4.288,-4.288 0,-2.356 1.897,-4.292 4.288,-4.292 2.368,0 4.271,1.936 4.271,4.292 C 4.271,-1.919 2.368,0 0,0 m 0,-13.271 c -5.011,0 -9.03,4.056 -9.03,8.983 0,4.912 4.019,8.963 9.03,8.963 4.908,0 8.897,-4.051 8.897,-8.963 0,-4.927 -3.989,-8.983 -8.897,-8.983"
+             inkscape:connector-curvature="0"
+             id="path22"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(8.9287,20.1226)"
+           id="g24"><path
+             d="m 0,0 c -2.403,0 -4.286,-1.933 -4.286,-4.291 0,-2.367 1.883,-4.237 4.286,-4.237 2.354,0 4.273,1.87 4.273,4.237 C 4.273,-1.933 2.354,0 0,0 m 0,-13.22 c -4.96,0 -8.929,4.001 -8.929,8.929 0,4.929 3.969,8.984 8.929,8.984 4.995,0 8.897,-4.055 8.897,-8.984 0,-4.928 -3.902,-8.929 -8.897,-8.929"
+             inkscape:connector-curvature="0"
+             id="path26"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g></g></g></g></svg>

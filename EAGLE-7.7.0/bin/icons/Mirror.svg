@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="40"
+   height="40"
+   id="svg2"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="M 0,32 32,32 32,0 0,0 0,32 z"
+         inkscape:connector-curvature="0"
+         id="path18" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,40)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath16)"
+         id="g14"><g
+           transform="translate(9.6152,10.9697)"
+           id="g20"><path
+             d="m 0,0 -9.615,0 0,9.614 9.615,0 c 0,0 -3.365,-1.25 -3.365,-4.807 C -3.365,1.197 0,0 0,0"
+             inkscape:connector-curvature="0"
+             id="path22"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(16,30.5)"
+           id="g24"><path
+             d="M 0,0 0,-29"
+             inkscape:connector-curvature="0"
+             id="path26"
+             style="fill:none;stroke:#8a8a89;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g><g
+           transform="translate(22.3848,10.9697)"
+           id="g28"><path
+             d="m 0,0 9.615,0 0,9.614 -9.615,0 c 0,0 3.365,-1.25 3.365,-4.807 C 3.365,1.197 0,0 0,0"
+             inkscape:connector-curvature="0"
+             id="path30"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g></g></g></g></svg>

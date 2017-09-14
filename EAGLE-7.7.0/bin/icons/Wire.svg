@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="40"
+   height="40"
+   id="svg2"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="M 0,32 32,32 32,0 0,0 0,32 z"
+         inkscape:connector-curvature="0"
+         id="path18" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,40)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath16)"
+         id="g14"><g
+           transform="translate(26.9424,10.9131)"
+           id="g20"><path
+             d="m 0,0 c 0.467,-0.099 0.467,-0.623 -0.026,-1.142 l -3.538,-3.692 c -0.505,-0.513 -1.056,-0.368 -1.251,0.308 l -1.389,4.924 c -0.198,0.672 0.031,1.155 0.505,1.03 L 0,0 z"
+             inkscape:connector-curvature="0"
+             id="path22"
+             style="fill:#8a8a89;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(20.6992,12.043)"
+           id="g24"><path
+             d="m 0,0 1.627,-0.418 3.312,-0.833 1.643,-0.441 4.691,18.629 c 0.232,0.903 -0.323,1.827 -1.235,2.048 L 6.732,19.816 C 5.822,20.043 4.904,19.488 4.67,18.577 L 0,0 z"
+             inkscape:connector-curvature="0"
+             id="path26"
+             style="fill:#8a8a89;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(1.5,1.4746)"
+           id="g28"><path
+             d="M 0,0 22,0"
+             inkscape:connector-curvature="0"
+             id="path30"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:#444443;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></svg>

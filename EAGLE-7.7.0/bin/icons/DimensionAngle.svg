@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="40"
+   height="40"
+   id="svg2"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="M 0,32 32,32 32,0 0,0 0,32 z"
+         inkscape:connector-curvature="0"
+         id="path18" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,40)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath16)"
+         id="g14"><g
+           transform="translate(22.6309,25.5347)"
+           id="g20"><path
+             d="M 0,0 -4.066,1.16 C -4.295,1.235 -4.538,1.104 -4.592,0.867 l -1.162,-4.068 c -0.108,-0.357 0.287,-0.669 0.621,-0.484 l 1.115,0.619 2.986,1.662 1.128,0.628 C 0.413,-0.597 0.355,-0.098 0,0"
+             inkscape:connector-curvature="0"
+             id="path22"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(23.916,9.127)"
+           id="g24"><path
+             d="M 0,0 4.068,-1.158 C 4.295,-1.232 4.539,-1.1 4.593,-0.869 L 5.755,3.203 C 5.863,3.555 5.469,3.871 5.135,3.686 L 3.24,2.611 -3.342,14.557 -4.604,13.897 1.973,1.949 -0.094,0.777 C -0.413,0.6 -0.355,0.1 0,0"
+             inkscape:connector-curvature="0"
+             id="path26"
+             style="fill:#444443;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(13.2129,30.5)"
+           id="g28"><path
+             d="m 0,0 -11.713,-29 29,0"
+             inkscape:connector-curvature="0"
+             id="path30"
+             style="fill:none;stroke:#8a8a89;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></svg>
